@@ -10,6 +10,12 @@ Product reviews play an important role in customer purchasing decisions. Reading
 
 ReviewIQ AI provides an easy way to analyze customer reviews and understand overall product sentiment using Machine Learning.
 
+Review-IQ AI – Product Review Sentiment Analysis
+
+🚀 Live Demo
+
+"Click Here to Open Live Project" (https://review-iq-ai-appuct-review-sentiment-analysis-ngfbdmgnpowzgwx8.streamlit.app/)
+
 ✨ Features
 
 - Sentiment Prediction: Classifies reviews as Positive, Negative, or Neutral.
