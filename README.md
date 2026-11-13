@@ -115,9 +115,8 @@ http://localhost:8501
 👨‍💻 Developed By
 
 Vishal Maurya
-Akshat Diwakar
 - Course: B.Tech CSE (Data Science & Artificial Intelligence)
-- Roll Number: 202410101150067,202410101150080
+- Roll Number: 202410101150067
 - Group: 53
 - University: Shri Ramswaroop Memorial University (SRMU)
 - Faculty Guide: Mr. Abhishek
